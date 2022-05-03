@@ -1,6 +1,5 @@
 {
-  "name": "angular",
-  "type": "module",
+  "name": "angular1",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +7,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@angular/core": "^13.3.5"
-  }
+  "license": "ISC"
 }
